@@ -5,7 +5,7 @@ package ie.gmit.ds;
 
 /**
  * <pre>
- * Hash Password - Request
+ *Request Hash
  * </pre>
  *
  * Protobuf type {@code ie.gmit.ds.HashRequest}
@@ -306,7 +306,7 @@ private static final long serialVersionUID = 0L;
   }
   /**
    * <pre>
-   * Hash Password - Request
+   *Request Hash
    * </pre>
    *
    * Protobuf type {@code ie.gmit.ds.HashRequest}

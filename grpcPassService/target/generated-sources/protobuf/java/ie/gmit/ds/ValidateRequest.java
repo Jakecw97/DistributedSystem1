@@ -5,7 +5,7 @@ package ie.gmit.ds;
 
 /**
  * <pre>
- * Validate Password - Request
+ *Request Validation
  * </pre>
  *
  * Protobuf type {@code ie.gmit.ds.ValidateRequest}
@@ -333,7 +333,7 @@ private static final long serialVersionUID = 0L;
   }
   /**
    * <pre>
-   * Validate Password - Request
+   *Request Validation
    * </pre>
    *
    * Protobuf type {@code ie.gmit.ds.ValidateRequest}
